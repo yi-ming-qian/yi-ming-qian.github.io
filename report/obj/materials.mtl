@@ -1,0 +1,4 @@
+newmtl mymaterial
+Kd 1.00 1.00 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
