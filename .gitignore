@@ -1,3 +1,8 @@
 *.obj
 *.pkl
 raw/
+.gitignore
+projects/
+report/
+unity/
+user_study/
