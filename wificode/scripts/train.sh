@@ -1,0 +1,12 @@
+python main.py --train \
+                --module wifi \
+                --data_root .../data/yasu_data/ \
+                --ronin_outdir ../outputs/ \
+                --nr_epochs 200 \
+                --batch_size 16 \
+                --proj_dir iteration \
+                --iteration $1 \
+                --ckpt $2 \
+                --lr 1e-4 \
+                --save_frequency 50 \
+                -g 0
